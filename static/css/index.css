@@ -59,7 +59,7 @@ nav a:hover {
 .hero button {
   margin-top: 20px;
   padding: 12px 24px;
-  background-color: #bfa524;
+  background-color: #e61919;
   border: none;
   font-size: 18px;
   color: white;
@@ -68,7 +68,7 @@ nav a:hover {
 }
 
 .hero button:hover {
-  background-color: #2700d3;
+  background-color: #e45a5a;
 }
 
 .tours {
